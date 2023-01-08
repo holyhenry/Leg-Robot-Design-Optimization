@@ -1,5 +1,4 @@
-# Bioinspired Direct-Drive Legged Robot:
-Design Optimization of 5-bar Parallel Linkage Using OpenMDAO
+# Bioinspired Direct-Drive Legged Robot: Design Optimization of 5-bar Parallel Linkage Using OpenMDAO
 
 The develop of quadrupedal robots and adaptable system control is becoming an increasing topic with the growing demand for using robot to explore unknown,
 hazardous environment. In this project, we aim to improve the mobility of quadruped by lowering the inertia effect of parallel linkage limbs, namely, optimizing the length of the linkage to reduce the mass. 
