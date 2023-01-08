@@ -8,3 +8,7 @@ However, there is a trade-off between the linkage length and the working space. 
 ex: [Stanford Doggo](https://arxiv.org/abs/1905.04254), [Ghost Minitaur](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9837/98370I/Gait-development-on-Minitaur-a-direct-drive-quadrupedal-robot/10.1117/12.2231105.short) 
 and [MIT Cheetah](https://journals.sagepub.com/doi/full/10.1177/0278364917694244). To make both ends meet, we implement [OpenMDAO](https://openmdao.org/), which is an open-source framework for efficient multidisciplinary optimization, 
 to produce our optimal design of parallel linkage.
+
+![alt text](https://github.com/holyhenry/Leg-Robot-Design-Optimization/blob/master/Report/robot_leg_mechanism.png "robot_leg_mechanism")
+
+
